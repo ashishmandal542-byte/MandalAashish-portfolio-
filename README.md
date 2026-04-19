@@ -1,6 +1,9 @@
 🍸 Ashish | CV & Cocktail Portfolio Website
 
-A simple personal website to showcase your CV and cocktail creations with photos and descriptions. This project is built using HTML, Tailwind CSS, and JavaScript (LocalStorage).
+A simple personal website to showcase your CV and cocktail creations with photos and descriptions.
+
+
+
 
 
 ---
